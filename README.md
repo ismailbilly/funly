@@ -1,2 +1,2 @@
 # funly
-This is a fu social media app
+This is a fun social media app
